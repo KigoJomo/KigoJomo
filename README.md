@@ -1,18 +1,18 @@
 # Hi there, I'm Jomo Kigo 👋
 
 ## 🚀 About Me
-I'm a web developer and IT student at DeKUT, passionate about building web applications and systems design.
+I'm a web developer and graphics designer.
 
 ## 🛠 Skills
 - **Web Development:** HTML, CSS, JavaScript, React
-- **Backend Development:** Node.js, Express
-- **Database:** MongoDB, MySQL
-- **Other:** Git, Docker, Kubernetes
+- **Backend Development:** Django
+- **Database:** PostgreSQL
+- **Other:** Figma, Canva
 
 ## 📫 How to reach me:
-- **Email:** [kigojay684@gmail.com](mailto:kigojay684@gmail.com)
+- **Email:** [kigojomo@gmail.com](mailto:kigojomo@gmail.com)
 - **Website:** [kigo-jomo.vercel.app](https://kigo-jomo.vercel.app)
-- **LinkedIn:** [linkedin.com/in/kigojomo](https://www.linkedin.com/in/kigojomo)
+- **LinkedIn:** [linkedin.com/in/kigojomo](https://www.linkedin.com/in/jomo-kigo-838284266/)
 
 ## 🏆 Achievements
 - **YOLO Badge:** "You want it? You merge it."
