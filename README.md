@@ -1,4 +1,4 @@
-# Hi there, I'm Jomo Kigo 👋
+#
 
 ![header photo](./images/cover.png)
 
@@ -17,7 +17,7 @@ I'm a web developer and graphics designer.
 
 - **Email:** [kigojomo@gmail.com](mailto:kigojomo@gmail.com)
 - **Website:** [kigo-jomo.vercel.app](https://kigo-jomo.vercel.app)
-- **LinkedIn:** [linkedin.com/in/kigojomo](https://www.linkedin.com/in/jomo-kigo-838284266/)
+- **LinkedIn:** [linkedin.com/in/kigo-jomo](https://www.linkedin.com/in/kigo-jomo/)
 
 ## 🏆 Achievements
 
