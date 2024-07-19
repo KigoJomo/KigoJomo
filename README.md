@@ -4,7 +4,11 @@
 
 # 💫 About Me
 
-🔭 I’m currently working on interior design website with react.js and tailwind<br>👯 I’m looking to collaborate on web  development for businesses and brands<br>🤝 I’m looking for help with UI/UX design<br>🌱 I’m currently learning system design<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently working on interior design website with react.js and tailwind<br>
+👯 I’m looking to collaborate on web  development for businesses and brands<br>
+🤝 I’m looking for help with UI/UX design<br>
+🌱 I’m currently learning system design<br>
+⚡ Fun fact
 
 ## 🌐 Socials
 
@@ -16,15 +20,23 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=KigoJomo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KigoJomo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=KigoJomo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+
+##
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KigoJomo&theme=dark&hide_border=false)
+<br/>
+
+##
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KigoJomo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=KigoJomo&theme=react&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=KigoJomo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 #
 
