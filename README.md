@@ -8,11 +8,11 @@
 👯 I’m looking to collaborate on web  development for businesses and brands<br>
 🤝 I’m looking for help with UI/UX design<br>
 🌱 I’m currently learning system design<br>
-⚡ Fun fact
+⚡ Fun fact, sleep schedule is a myth 😂
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kigo.jomo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kigo-jomo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kigojomo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kigojomo)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/orb_designs_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kigo-jomo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kigojomo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@kigojomo)
 
 # 💻 Tech Stack
 
@@ -25,7 +25,7 @@
 
 ##
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=KigoJomo&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KigoJomo&theme=dark&hide_border=true)
 <br/>
 
 ##
