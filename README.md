@@ -25,7 +25,7 @@
 
 ##
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=KigoJomo&theme=react&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KigoJomo&theme=react&hide_border=true)
 <br/>
 
 ##
