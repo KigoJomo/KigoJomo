@@ -48,7 +48,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=KigoJomo&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=KigoJomo&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KigoJomo&icon=0&color=0)](https://visitcount.itsvg.in)
