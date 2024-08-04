@@ -4,10 +4,10 @@
 
 # 💫 About Me
 
-🔭 I’m currently working on interior design website with react.js and tailwind<br>
-👯 I’m looking to collaborate on web  development for businesses and brands<br>
-🤝 I’m looking for help with UI/UX design<br>
-🌱 I’m currently learning system design<br>
+🔭 I’m currently working on an Online art gallery with Next.js and Tailwind CSS<br>
+👯 I’m looking to collaborate on web development for businesses and brands<br>
+🤝 I’m looking for assistance in product design<br>
+🌱 Currently learning system design<br>
 ⚡ Fun fact, sleep schedule is a myth 😂
 
 ## 🌐 Socials
