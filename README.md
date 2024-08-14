@@ -16,7 +16,17 @@
 
 # 💻 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwindcss,javascript,npm,react,nextjs,vercel,prisma,threejs,figma,python,django,postgres,markdown,git,github)
+### Front-End
+
+![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwindcss,figma,javascript,npm,react,nextjs,threejs)
+
+### Back-End
+
+![My Skills](https://skillicons.dev/icons?i=prisma,python,django,postgres)
+
+### Version Control & Hosting
+
+![My Skills](https://skillicons.dev/icons?i=vercel,markdown,git,github)
 
 # 📊 GitHub Stats
 
