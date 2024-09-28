@@ -1,6 +1,6 @@
 #
 
-![header photo](./images/github_cover.png)
+![header photo](./images/cover.png)
 
 # 💫 About Me
 
