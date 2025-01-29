@@ -1,6 +1,6 @@
 #
 
-![header photo](./images/cover.png)
+![header photo](./cover.png)
 
 # 💫 About Me
 
