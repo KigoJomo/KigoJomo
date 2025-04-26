@@ -20,4 +20,8 @@
       <span style="margin-bottom: 0.5rem; font-size: 1.75rem;">&rarr;</span>
     </button>
   </a>
-</div>
+
+ 
+</div> 
+
+<iframe src="https://jomokigo.vercel.app" width="100%" height="600" frameborder="0" allowfullscreen title="Description"></iframe>
