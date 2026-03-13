@@ -1,29 +1,57 @@
+# Kigo Jomo
 
-![header photo](./public/images/banner.png)
+- Site: [kigo.ke](https://kigo.ke)
+- Email: [hello@kigo.ke](mailto:hello@kigo.ke)
+- X: [@KigoKe](https://x.com/KigoKe)
 
+---
 
-<div style="width: 100%; display: flex; flex-direction: column; align-items: center; gap: 0rem; padding: 0rem;">
-  <div style="width: 100%; border-top: 1px solid #484848; margin-top: 1rem; margin-bottom: 0rem;"> </div>
+I own a computer, and I build stuff with it. You should try it sometime.
 
-  <h3>Some cool dev stats:</h3>
+Most of what I do sits between product engineering, internal tooling, and experimentation. I like taking ideas that are still half-formed, reducing the noise, and turning them into software that feels clear, fast, and durable.
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KigoJomo&theme=react&hide_border=false" style="" />
+## What I work on
 
-  <div style="width: 100%; border-top: 1px solid #484848; margin-top: 1.5rem; margin-bottom: 1.5rem;"> </div>
+I spend most of my time building products and systems like:
 
-  <p>This ain't a real-lengthy README profile, so just check out my website 😎:</p>
+- **[Sidekick](https://sidekick.aqutte.co.ke)**  
+  An AI assistant app built around tool use and real integrations rather than pure chat. It includes Clerk auth, satellite-domain setup, encrypted third-party tokens, approval-aware actions, and a growing Trello integration layer for reading and mutating board state.
 
-  <a href="https://jomokigo.vercel.app" target="_blank">
-    <button
-      class="" style="background-color: #000000; border: 2px solid #2A2B2A; color: #efefef; font-family: Verdana, Geneva, Tahoma, sans-serif; padding: .05rem 1.5rem; border-radius: .5rem; display: flex; align-items: center; font-weight: 600; cursor: pointer; transition: all .3s ease; margin-left: auto; margin-right: auto;" onmouseover="this.style.backgroundColor='#141414';">
-      <span>Right Here</span>
-      <span style="margin-bottom: 0.5rem; font-size: 1.75rem;">&rarr;</span>
-    </button>
-  </a>
-</div>
+- **[Mastertuple](https://mastertuple.co.ke/)**  
+  A music theory learning platform with authenticated lessons, protected media, worksheet and exam flows, discussion features, learner progress tracking, and the backend/admin infrastructure needed to run it as a real product.
 
-##
+- **[Privacy Peek](https://privacypeek.vercel.app/)**  
+  A policy-analysis tool that pulls in site policies, runs them through an LLM pipeline, and returns structured summaries, risk signals, and the parts of the document that actually matter to users.
 
-<br />
+- **[kigo.ke](https://kigo.ke)**  
+  A monorepo for my site and internal publishing system: public web app, admin dashboard, media management, analytics views, email tooling, shared UI packages, Convex backend code, and a CLI that talks to the same backend through machine-JWT auth.
 
-[![Map Screenshot](./public/images/snapshot.png)](https://jomokigo.vercel.app)
+- **AI-heavy side projects**  
+  Usually prototypes around agent workflows, automation, and applied LLMs. I care more about tool calling, state, and operational usefulness than about building another thin chat wrapper.
+
+## How I like to build
+
+I care about:
+
+- products that are practical before they are trendy
+- interfaces that feel deliberate
+- backends that stay understandable as the product grows
+- tooling that saves future time, not just current effort
+- systems that can be maintained without heroics
+
+## Current stack
+
+I mostly work with TypeScript and spend a lot of time around:
+
+- Next.js
+- Convex
+- Clerk
+- Bun
+- Turborepo
+- React Native / Expo when a mobile surface makes sense
+
+## What you will find here
+
+This GitHub is a mix of product builds, prototypes, client work, experiments, and infrastructure around those things.
+
+Some repos are polished products. Some are active workbenches. Some are me trying to answer a very specific question by writing code instead of talking about it.
