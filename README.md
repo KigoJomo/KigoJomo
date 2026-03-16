@@ -14,7 +14,7 @@ Most of what I do sits between product engineering, internal tooling, and experi
 
 I spend most of my time building products and systems like:
 
-- **[Sidekick](https://sidekick.aqutte.co.ke)**  
+- **[Sidekick](https://sidekick.aqutte.co.ke/home)**  
   An AI assistant app built around tool use and real integrations rather than pure chat. It includes Clerk auth, satellite-domain setup, encrypted third-party tokens, approval-aware actions, and a growing Trello integration layer for reading and mutating board state.
 
 - **[Mastertuple](https://mastertuple.co.ke/)**  
