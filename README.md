@@ -23,11 +23,8 @@ I spend most of my time building products and systems like:
 - **[Privacy Peek](https://privacypeek.vercel.app/)**  
   A policy-analysis tool that pulls in site policies, runs them through an LLM pipeline, and returns structured summaries, risk signals, and the parts of the document that actually matter to users.
 
-- **[kigo.ke](https://kigo.ke)**  
-  A monorepo for my site and internal publishing system: public web app, admin dashboard, media management, analytics views, email tooling, shared UI packages, Convex backend code, and a CLI that talks to the same backend through machine-JWT auth.
-
-- **AI-heavy side projects**  
-  Usually prototypes around agent workflows, automation, and applied LLMs. I care more about tool calling, state, and operational usefulness than about building another thin chat wrapper.
+- **[experiments](https://experiments.kigo.ke)**  
+  A playground for prototypes, agent workflows, automation, and applied LLMs. Tool calling, state, and operational usefulness over thin chat wrappers.
 
 ## How I like to build
 
