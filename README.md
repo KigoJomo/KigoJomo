@@ -6,8 +6,7 @@ I build apps, desktop tools, browser extensions, and small utilities.
 
 ## Projects
 
-- [GitHub Releases Nav](https://github.com/KigoJomo/github-releases-nav) — Browser extension that adds Releases beside Code in GitHub repository navigation.
-- [YouTube Zen](https://github.com/KigoJomo/youtube-zen) — Browser extension that removes Shorts shelves and sections from YouTube.
+- [Browser Tweaks](https://github.com/KigoJomo/browser-tweaks) — Cross-browser extension that focuses link-opened tabs, removes YouTube Shorts shelves, adds Releases to GitHub navigation, and applies a dark theme to fast.com.
 - [Moss](https://moss.kigo.ke) — Foreign-exchange bureau operations and accounting desktop software.
 - [Windows Setup](https://github.com/KigoJomo/windows-setup) — Unattended Windows 11 setup and debloat kit that also installs a development environment.
 - [Privacy Peek](https://privacy.experiments.kigo.ke) — Browser extension and dashboard that analyze privacy policies and score website data practices.
@@ -26,6 +25,5 @@ I build apps, desktop tools, browser extensions, and small utilities.
 - [Wallpapers](https://github.com/KigoJomo/wallpapers) — Code-generated wallpaper experiments.
 - [Image Zoom](https://github.com/KigoJomo/image-zoom) — Dependency-free single-tap image zoom with contextual hotspots.
 - [Simple Editor](https://github.com/KigoJomo/simple-editor) — Rich-text editor experiment.
-- [Fast Dark](https://github.com/KigoJomo/fast-dark) — Browser extension that applies a dark theme to fast.com.
 - [Handy Scripts](https://github.com/KigoJomo/handy-scripts) — Scripts for image conversion, project scaffolding, and code analysis.
 - [AQ Chat](https://aqchat.vercel.app) — Authenticated AI chat UI with Markdown and code highlighting.
