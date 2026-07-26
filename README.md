@@ -6,6 +6,7 @@ I build apps, desktop tools, browser extensions, and small utilities.
 
 ## Projects
 
+- [TickTick Waybar](https://github.com/KigoJomo/ticktick-waybar): Fast TickTick controls for Waybar and Walker, with due-task counts, quick capture, and one-click completion.
 - [Browser Tweaks](https://github.com/KigoJomo/browser-tweaks) — Cross-browser extension that focuses link-opened tabs, removes YouTube Shorts shelves, adds Releases to GitHub navigation, and applies a dark theme to fast.com.
 - [Moss](https://moss.kigo.ke) — Foreign-exchange bureau operations and accounting desktop software.
 - [Windows Setup](https://github.com/KigoJomo/windows-setup) — Unattended Windows 11 setup and debloat kit that also installs a development environment.
